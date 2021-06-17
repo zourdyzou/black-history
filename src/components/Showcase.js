@@ -2,9 +2,9 @@ import { Link } from "react-router-dom";
 
 const Showcase = () => {
   return (
-    <div>
-      <Link to="/web-app">Showcase</Link>
-    </div>
+    <>
+      <h1>showcase</h1>
+    </>
   );
 };
 

@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <>
       <footer className="flex justify-center items-center">
-        <nav className="py-10">
+        <nav className="py-20 px-20">
           <ul className="flex flex-wrap justify-center items-center gap-5 sm:flex-row">
             <li>
               <NavLink to="/" exact className="active-link">
@@ -12,8 +12,8 @@ const Footer = () => {
               </NavLink>
             </li>
             <li>
-              <NavLink to="/web-app" className="active-link">
-                Web App
+              <NavLink to="/information" className="active-link">
+                Information
               </NavLink>
             </li>
             <li>

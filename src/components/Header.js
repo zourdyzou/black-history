@@ -28,10 +28,10 @@ const Header = () => {
               </li>
               <li>
                 <NavLink
-                  to="/web-app"
+                  to="/information"
                   activeClassName="bg-white text-black px-2 py-1"
                 >
-                  Web App
+                  Information
                 </NavLink>
               </li>
               <li>
