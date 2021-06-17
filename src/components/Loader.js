@@ -1,6 +1,6 @@
-import spinny from "../assets/spinny.gif";
+// import spinny from "../assets/spinny.gif";
 import spinnies from "../assets/spinnies.gif";
-import wolfy from "../assets/wolfy.gif";
+// import wolfy from "../assets/wolfy.gif";
 
 const Loader = () => {
   return (
