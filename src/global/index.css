@@ -32,3 +32,14 @@ header > nav > ul > li {
 
   border-radius: 10px;
 }
+
+.active-link {
+  color: #fff;
+}
+
+.active-link:hover {
+  padding: 10px 15px;
+  color: #000;
+  background: #fff;
+  transition: all 0.3s;
+}

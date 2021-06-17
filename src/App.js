@@ -4,6 +4,7 @@ import Showcase from "./components/Showcase";
 import Documentation from "./pages/Documentation";
 import Purposes from "./pages/Purposes";
 import People from "./components/People";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
@@ -22,6 +23,8 @@ const App = () => {
       <Route path="/purpose">
         <Purposes />
       </Route>
+
+      <Footer />
     </Router>
   );
 };
