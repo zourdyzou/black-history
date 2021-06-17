@@ -6,6 +6,7 @@ import Purposes from "./pages/Purposes";
 import People from "./components/People";
 import Footer from "./components/Footer";
 import Information from "./pages/Information";
+import Loader from "./components/Loader";
 
 const App = () => {
   return (

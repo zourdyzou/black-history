@@ -1,9 +1,10 @@
 import { useEffect } from "react";
 import { useState } from "react";
+import Loader from "../components/Loader";
 
 const Information = () => {
   const [people, setPeople] = useState([]);
-  const [isLoading, setIsLoading] = useState(false);
+  const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -15,6 +16,7 @@ const Information = () => {
         const people = await res.json();
 
         setPeople(people);
+        setIsLoading(false);
       } catch (error) {
         console.error(error);
         setIsLoading(true);
@@ -29,7 +31,7 @@ const Information = () => {
       <h3 className="text-center font-bold text-4xl mb-2">People</h3>
       <div className="header-underline"></div>
       {isLoading ? (
-        <h2 className="text-center text-3xl mt-10">Loading...</h2>
+        <Loader />
       ) : (
         <section className="grid grid-cols-1 py-5 px-5 lg:px-20 xl:px-48 2xl:grid-cols-2 2xl:px-4">
           {people.map((person) => {
