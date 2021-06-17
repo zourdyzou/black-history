@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Showcase from "./components/Showcase";
 import Documentation from "./pages/Documentation";
 import Purposes from "./pages/Purposes";
+import People from "./components/People";
 
 const App = () => {
   return (
@@ -10,7 +11,7 @@ const App = () => {
       <Header />
 
       <Route exact path="/">
-        <Showcase />
+        <People />
       </Route>
       <Route path="/web-app">
         <Showcase />
