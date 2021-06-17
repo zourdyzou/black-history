@@ -1,7 +1,7 @@
 const Purposes = () => {
   return (
     <>
-      {/* <div className="px-5 mb-5">
+      <div className="px-5 mb-5">
         <h2 className="text-center mb-2 text-4xl font-bold">
           Purpose of the API
         </h2>
@@ -13,7 +13,7 @@ const Purposes = () => {
           exist without each other. Credit to Wikipedia, the source of this
           information.
         </p>
-      </div> */}
+      </div>
     </>
   );
 };

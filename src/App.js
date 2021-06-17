@@ -14,6 +14,7 @@ const App = () => {
       <Header />
 
       <Route exact path="/">
+        <Purposes />
         <People />
       </Route>
       <Route path="/information">
