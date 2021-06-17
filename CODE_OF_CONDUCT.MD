@@ -1,112 +1,41 @@
-# Creating a Culture of Innovation
+# Basecamp Code of Conduct
 
-We aspire to create a culture where people work joyfully, communicate openly
-about things that matter, and provide great services globally. We would like our
-team and communities (both government and private sector) to reflect on
-diversity of all kinds, not just the classes protected in law. Diversity fosters
-innovation. Diverse teams are creative teams. We need a diversity of perspective
-to create solutions for the challenges we face.
+## Our Pledge
 
-This is our code of conduct (adapted from [18F's Code of Conduct](https://github.com/18F/code-of-conduct)).
-We follow all Equal Employment Opportunity laws and we expect everyone we work
-with to adhere to the [GSA Anti-harrasment Policy](http://www.gsa.gov/portal/directive/d0/content/512516),
-even if they do not work for the Centers for Disease Control and Prevention or
-GSA. We expect every user to follow this code of conduct and the laws and
-policies mentioned above.
+In the interest of fostering an inclusive and safe workplace, Basecamp pledges to be a harassment- and discrimination-free space for everyone, regardless of age, disability, ethnicity, gender identity or expression, nationality, neurotype, personal appearance, political affiliation, professional background, race, religion, or sexual identity or orientation.
 
-## Be Empowering
+## Our Standards
 
-Consider what you can do to encourage and support others. Make room for quieter
-voices to contribute. Offer support and enthusiasm for great ideas. Leverage the
-low cost of experimentation to support your colleagues' ideas, and take care to
-acknowledge the original source. Look for ways to contribute and collaborate,
-even in situations where you normally wouldn't. Share your knowledge and skills.
-Prioritize access for and input from those who are traditionally excluded from
-the civic process.
+Examples of behavior that contributes to creating a healthy environment include:
 
-## Rules of Behavior
+- Using welcoming and inclusive language
+- Being respectful and empathetic when it comes to differing viewpoints and experiences
+- Gracefully accepting and offering constructive criticism and feedback
 
-- I understand that I must complete security awareness and records management
-  training annually in order to comply with the latest security and records
-  management policies.
-- I understand that I must also follow the [Rules of Behavior for use of HHS Information Resources](http://www.hhs.gov/ocio/policy/hhs-rob.html)
-- I understand that I must not use, share, or store any kind of sensitive data
-  (health status, provision or payment of healthcare, PII, etc.) under ANY
-  circumstance.
-- I will not knowingly conceal, falsify, or remove information.
-- I understand that I can only use non-sensitive and/or publicly available
-  data.
-- I understand that all passwords I create to set up accounts need to comply
-  with CDC's password policy.
-- I understand that the stewards reserves the right to moderate all data at any
-  time.
+Examples of unacceptable behavior by employees include:
 
-## Boundaries
+- The use of any sexualized language or imagery and unwelcome sexual attention or advances
+- Insulting or derogatory comments
+- Discriminating on the basis of age, disability, ethnicity, gender identity or expression, nationality, neurotype, personal appearance, political affiliation, professional background, race, religion, or sexual identity or orientation.
+- Public or private harassment
+- Other conduct which could reasonably be considered inappropriate in a professional setting
 
-Create boundaries to your own behavior and consider how you can create a safe
-space that helps prevent unacceptable behavior by others. We can't list all
-instances of unacceptable behavior, but we can provide examples to help guide
-our community in thinking through how to respond when we experience these types
-of behavior, whether directed at ourselves or others.
+## Our Responsibilities
 
-If you are unsure if something is appropriate behavior, it probably is not. Each
-person we interact with can define where the line is for them. Impact matters
-more than intent. Ensuring that your behavior does not have a negative impact is
-your responsibility. Problems usually arise when we assume that our way of
-thinking or behavior is the norm for everyone.
+Managers are responsible for upholding these standards. They will be clear and equitable when applying standards of acceptable behavior. They’re required to take appropriate and fair corrective action in response to any instances of unacceptable behavior. If you have questions about the standards above, talk to your manager or to Andrea.
 
-### Here are some examples of unacceptable behavior
+## Scope
 
-- Negative or offensive remarks based on the protected classes as listed in the
-  GSA Anti-harrasment Policy of race, religion, color, sex, national origin,
-  age, disability, genetric information, sexual orientation, gender identity,
-  parental status, maritual status, and political affiliation as well as gender
-  expression, mental illness, socioeconomic status or backgrounds,
-  neuro(a)typicality, physical appearance, body size, or clothing. Consider
-  that calling attention to differences can feel alienating.
-- Sustained disruption of meetings, talks, or discussions, including chatrooms.
-- Patronizing language or behavior.
-- Aggresive behavior, such as unconstructive criticism, providing correction
-  that do not improve the conversation (sometimes referred to as "well
-  actually's"), repeatedly interrupting or talking over someone else, feigning
-  surprise at someone's lack of knowledge or awareness about a topic, or subtle
-  prejudice.
-- Referring to people in a way that misidentifies their gender and/or rejects
-  the validity of their gender identity; for instance by using incorrect
-  pronouns or forms of address (misgendering).
-- Retaliating against anyone who files a formal complaint that someone has
-  violated these codes or laws.
+This Code of Conduct applies both within Basecamp during work hours and in public spaces when you’re representing Basecamp. Examples of representing Basecamp in a public space include acting as a delegate at an online or offline event like a conference, posting on Basecamp branded social media, or participating in a Basecamp social event outside of work hours.
 
-## Background
+## Enforcement
 
-CDC Scientific Clearance is the process of obtaining approvals by appropriate
-CDC officials before a CDC information product is released to the public or
-CDC's external public health partners. Information products that require formal
-clearance include print, electronic, or oral materials, that CDC employees
-author or co-author, whether published by CDC or outside CDC. CDC contractors
-developing content on behalf of CDC for the public or CDC's external public
-health partners are also required to put their content through the formal
-clearance process. The collaborative functions related to the projects include
-blogs, wikis, forums, bug tracking sites, source control and
-others deemed as necessary.
+If you notice someone acting inappropriately as described in the standards above, you can report it by contacting your manager or Andrea. Or you can complete a [complaint form](https://3.basecamp.com/2914079/buckets/34/documents/2006612007). You may choose to remain anonymous on the complaint form.
 
-For those individuals within the CDC, adherence to the following policies are
-required:
+All complaints will be reviewed and investigated and will result in a response that is appropriate to the circumstances. Managers are required maintain your confidentiality however you choose to report an incident.
 
-- CDC ["Clearance of Information Products Disseminated Outside CDC for Public Use"](http://www.cdc.gov/maso/Policy/PublicUse.pdf)
-- HHS ["Ensuring the Quality of Information Disseminated by HHS agencies"](http://aspe.hhs.gov/infoquality)
+After your complaint has been reviewed, investigated, and responded to, Andrea or your manager will inform you of the steps being taken to address the original issue and any disciplinary outcomes.
 
-All collaborative materials will be controlled by the rules contained within
-this document. This will allow for the real-time collaboration opportunities
-among CDC employees, CDC contractors and CDC public health partners.
+In addition, all valid complaints about employees will be documented in a permanent file, along with related investigation processes and disciplinary outcomes. Repeated complaints about one employee will result in escalating disciplinary measures, up to and including termination.
 
-## Credit
-
-This code of conduct was mainly adapted from [18F's Code of Conduct](https://github.com/18F/code-of-conduct)
-and the [CDC's Informatics Innovation Unit R&D Lab's code of conduct.](https://www.philab.cdc.gov/index.php/code-of-conduct/)
-
-## Relevant Legal Considerations
-
-- [Laws enforced by the Equal Employment Opportunity Commission](http://www.eeoc.gov/laws/statutes/index.cfm)
-- [Types of discrimination prohibited by law](http://www.eeoc.gov/laws/types)
-- [New and proposed regulations](http://www.eeoc.gov/laws/regulations/index.cfm)
+Managers who do not follow or enforce the Code of Conduct in good faith will be subject to corrective action as well.
